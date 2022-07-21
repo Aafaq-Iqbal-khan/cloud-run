@@ -1,0 +1,5 @@
+pip==21.3.1
+Flask==2.1.2
+gnews==0.2.7
+newspaper3k==0.2.8
+pandas==1.4.3
